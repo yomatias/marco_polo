@@ -1,12 +1,12 @@
 import React from 'react';
-import ReactGeolocated from '../src/components/reactGeolocated';
+import Geo from './components/Geo';
 
 class App extends React.Component {
   
   render() {
     return(
       <div>
-        <ReactGeolocated />
+        <Geo />
       </div>
     );
   }

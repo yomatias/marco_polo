@@ -13,7 +13,7 @@ L.Icon.Default.mergeOptions({
     shadowUrl: require('leaflet/dist/images/marker-shadow.png')
 });
 
-class ReactGeolocated extends React.Component {
+class Geo extends React.Component {
   render() {
 
     let coords = null;
@@ -56,4 +56,4 @@ export default geolocated({
         enableHighAccuracy: false,
     },
     userDecisionTimeout: 0,
-  })(ReactGeolocated);
+  })(Geo);

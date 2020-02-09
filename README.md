@@ -1,3 +1,22 @@
+Dude you're here!
+
+I put all this pieces toghetter in order to learn about react-geolacted and react-leaflet plugins.
+
+In src/components/Geo.jsx we can find both plugins implementations and the needed fixes in order to get this project running
+
+Knowledge belongs to the world, following links where really useful:
+
+- https://react-leaflet.js.org/
+- https://blog.logrocket.com/how-to-use-react-leaflet/
+
+styles fixes
+- https://stackoverflow.com/questions/49441600/react-leaflet-marker-files-not-found/52165019#52165019
+- https://github.com/PaulLeCam/react-leaflet/issues/453#issuecomment-369522838
+- https://github.com/PaulLeCam/react-leaflet/issues/108#issuecomment-164656495
+
+***************************************************************************************
+REACT STUFF 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
